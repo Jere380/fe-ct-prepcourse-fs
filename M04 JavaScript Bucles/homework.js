@@ -165,9 +165,6 @@ function tieneTresDigitos(num) {
   else return false;
 }
 
-console.log(tieneTresDigitos(10));
-console.log(tieneTresDigitos(20000));
-
 function doWhile(num) {
   // Implementar una función que aumente el valor recibido en 5 hasta un límite de 8 veces.
   // Retornar el valor final.
